@@ -1,0 +1,740 @@
+{
+    "desserts": [
+        {
+            "sundae": [
+                {
+                    "id": 0,
+                    "name": {
+                        "en": "",
+                        "pt": "Sundae Natura"
+                    },
+                    "image": "",
+                    "description": {
+                        "en": "",
+                        "pt": "Uma montanha de neve doce e cremosa. Ensine a sua colher a fazer esqui antes que a neve derreta."
+                    },
+                    "categories": [
+                        "sundae",
+                        "ice cream"
+                    ],
+                    "ingredients": [
+                        "vanilla reduced fat ice cream" 
+                    ],
+                    "nutrition": {
+                        "proteins": "4g",
+                        "fats": "25g",
+                        "carbs": "4g",
+                        "salt": "0.2g",
+                        "calories": "155 kcal"
+                    },
+                    "allergens": {
+                        "contains": [
+                            "milk",
+                            "nuts"
+                        ],
+                        "may_contain": [
+                            "peanut"
+                        ]
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": {
+                        "en": "Hot Caramel Sundae",
+                        "pt": "Sundae Caramelo"
+                    },
+                    "image": "",
+                    "description": {
+                        "en": "Treat yourself to a Hot Caramel Sundae at McDonald's! This Caramel Sundae combines creamy vanilla soft serve and warm, buttery caramel topping.",
+                        "pt": ""
+                    },
+                    "categories": [
+                        "desserts",
+                        "sundae",
+                        "ice cream"
+                    ],
+                    "ingredients": [
+                        "vanilla reduced fat ice cream",
+                        "caramel topping"
+                    ],
+                    "nutrition": {
+                        "proteins": "5g",
+                        "fats": "54g",
+                        "carbs": "6g",
+                        "salt": "0.3g",
+                        "calories": "287 kcal"
+                    },
+                    "allergens": {
+                        "contains": [
+                            "milk",
+                            "nuts"
+                        ],
+                        "may_contain": [
+                            "peanut"
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "Sundae Chocolate",
+                    "image": "",
+                    "description": {
+                        "pt": ""
+                    },
+                    "categories": [
+                        "desserts",
+                        "sundae",
+                        "ice cream"
+                    ],
+                    "nutrition": {
+                        "proteins": "5g",
+                        "fats": "45g",
+                        "carbs": "8g",
+                        "salt": "0.4g",
+                        "calories": "277 kcal"
+                    },
+                    "allergens": {
+                        "contains": [
+                            "milk",
+                            "nuts"
+                        ],
+                        "may_contain": [
+                            "peanut"
+                        ]
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Sundae Morango",
+                    "image": "",
+                    "description": {
+                        "pt": ""
+                    },
+                    "categories": [
+                        "desserts",
+                        "sundae",
+                        "ice cream"
+                    ],
+                    "nutrition": {
+                        "proteins": "4g",
+                        "fats": "44g",
+                        "carbs": "4g",
+                        "salt": "0.2g",
+                        "calories": "229 kcal"
+                    },
+                    "allergens": {
+                        "contains": [
+                            "milk",
+                            "nuts"
+                        ],
+                        "may_contain": [
+                            "peanut"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "mcflurry": [
+                {
+                    "id": 0,
+                    "name": "McFlurry Kit Kat",
+                    "image": "",
+                    "description": {
+                        "en": "",
+                        "pt": ""
+                    },
+                    "categories": [
+                        "desserts",
+                        "mcflurry",
+                        "ice cream"
+                    ],
+                    "nutrition": {
+                        "proteins": "6g",
+                        "fats": "46g",
+                        "carbs": "11g",
+                        "salt": "0.2g",
+                        "calories": "307 kcal"
+                    },
+                    "allergens": {
+                        "contains": [
+                            "gluten",
+                            "soy",
+                            "milk",
+                            "nuts"
+                        ],
+                        "may_contain": [
+                            "peanut"
+                        ]
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "McFlurry Snickers",
+                    "image": "",
+                    "description": {
+                        "pt": ""
+                    },
+                    "categories": [
+                        "desserts",
+                        "mcflurry",
+                        "ice cream"
+                    ],
+                    "nutrition": {
+                        "proteins": "8g",
+                        "fats": "57g",
+                        "carbs": "13g",
+                        "salt": "0.2g",
+                        "calories": "375 kcal"
+                    },
+                    "allergens": {
+                        "contains": [
+                            "gluten",
+                            "soy",
+                            "milk",
+                            "peanuts"
+                        ],
+                        "may_contain": [
+                            "eggs",
+                            "nuts"
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "McFlurry M&M's",
+                    "image": "",
+                    "description": {
+                        "pt": ""
+                    },
+                    "categories": [
+                        "desserts",
+                        "mcflurry",
+                        "ice cream"
+                    ],
+                    "nutrition": {
+                        "proteins": "8g",
+                        "fats": "49g",
+                        "carbs": "12g",
+                        "salt": "0.2g",
+                        "calories": "342 kcal"
+                    },
+                    "allergens": {
+                        "contains": [
+                            "peanut",
+                            "soy",
+                            "milk"
+                        ],
+                        "may_contain": [
+                            "nuts"
+                        ]
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "McFlurry Oreo",
+                    "image": "",
+                    "description": {
+                        "pt": ""
+                    },
+                    "categories": [
+                        "desserts",
+                        "mcflurry",
+                        "ice cream"
+                    ],
+                    "nutrition": {
+                        "proteins": "6g",
+                        "fats": "43g",
+                        "carbs": "8g",
+                        "salt": "0.3g",
+                        "calories": "269 kcal"
+                    },
+                    "allergens": {
+                        "contains": [
+                            "gluten",
+                            "milk"
+                        ],
+                        "may_contain": [
+                            "peanut",
+                            "soy",
+                            "nuts"
+                        ]
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "McFlurry Cornetto Crush com topping chocolate",
+                    "image": "",
+                    "description": {
+                        "pt": ""
+                    },
+                    "categories": [
+                        "desserts",
+                        "mcflurry",
+                        "ice cream"
+                    ],
+                    "nutrition": {
+                        "proteins": "8g",
+                        "fats": "66g",
+                        "carbs": "15g",
+                        "salt": "0.6g",
+                        "calories": "434 kcal"
+                    },
+                    "allergens": {
+                        "contains": [
+                            "gluten",
+                            "soy",
+                            "milk"
+                        ],
+                        "may_contain": [
+                            "peanut",
+                            "nuts",
+                            "eggs"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "mini_mcflurry": [
+                {
+                    "id": 0,
+                    "name": "Mini McFlurry Kit Kat",
+                    "image": "",
+                    "description": {
+                        "en": "",
+                        "pt": "Um sabor à altura com Kit Kat!"
+                    },
+                    "categories": [
+                        "desserts",
+                        "mini mcflurry",
+                        "ice cream"
+                    ],
+                    "nutrition": {
+                        "proteins": "3g",
+                        "fats": "23g",
+                        "carbs": "5g",
+                        "salt": "0.1g",
+                        "calories": "154 kcal"
+                    },
+                    "allergens": {
+                        "contains": [
+                            "gluten",
+                            "soy",
+                            "milk",
+                            "nuts"
+                        ],
+                        "may_contain": [
+                            "peanut"
+                        ]
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "Mini McFlurry Snickers",
+                    "image": "",
+                    "description": {
+                        "pt": ""
+                    },
+                    "categories": [
+                        "desserts",
+                        "mini mcflurry",
+                        "ice cream"
+                    ],
+                    "nutrition": {
+                        "proteins": "5g",
+                        "fats": "32g",
+                        "carbs": "9g",
+                        "salt": "0.1g",
+                        "calories": "229 kcal"
+                    },
+                    "allergens": {
+                        "contains": [
+                            "gluten",
+                            "soy",
+                            "milk",
+                            "peanuts"
+                        ],
+                        "may_contain": [
+                            "eggs",
+                            "nuts"
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "Mini McFlurry M&M's",
+                    "image": "",
+                    "description": {
+                        "pt": "Um sabor à altura com M&M's!"
+                    },
+                    "categories": [
+                        "desserts",
+                        "mini mcflurry",
+                        "ice cream"
+                    ],
+                    "nutrition": {
+                        "proteins": "4g",
+                        "fats": "25g",
+                        "carbs": "6g",
+                        "salt": "0.1g",
+                        "calories": "171 kcal"
+                    },
+                    "allergens": {
+                        "contains": [
+                            "peanut",
+                            "soy",
+                            "milk"
+                        ],
+                        "may_contain": [
+                            "nuts"
+                        ]
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Mini McFlurry Oreo",
+                    "image": "",
+                    "description": {
+                        "pt": "Um sabor à altura com Oreo!"
+                    },
+                    "categories": [
+                        "desserts",
+                        "mini mcflurry",
+                        "ice cream"
+                    ],
+                    "nutrition": {
+                        "proteins": "3g",
+                        "fats": "21g",
+                        "carbs": "4g",
+                        "salt": "0.2g",
+                        "calories": "134 kcal"
+                    },
+                    "allergens": {
+                        "contains": [
+                            "gluten",
+                            "milk"
+                        ],
+                        "may_contain": [
+                            "peanut",
+                            "soy",
+                            "nuts"
+                        ]
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "Mini McFlurry Cornetto Crush com topping chocolate",
+                    "image": "",
+                    "description": {
+                        "pt": ""
+                    },
+                    "categories": [
+                        "desserts",
+                        "mini mcflurry",
+                        "ice cream"
+                    ],
+                    "nutrition": {
+                        "proteins": "5g",
+                        "fats": "43g",
+                        "carbs": "10g",
+                        "salt": "0.4g",
+                        "calories": "280 kcal"
+                    },
+                    "allergens": {
+                        "contains": [
+                            "gluten",
+                            "soy",
+                            "milk"
+                        ],
+                        "may_contain": [
+                            "peanut",
+                            "nuts",
+                            "eggs"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "extra_toppings": [
+                {
+                    "id": 0,
+                    "name": "Peanuts",
+                    "image": "",
+                    "description": {
+                        "en": "",
+                        "pt": ""
+                    },
+                    "categories": [
+                        "extra toppings"
+                    ],
+                    "nutrition": {
+                        "proteins": "2g",
+                        "fats": "1g",
+                        "carbs": "5g",
+                        "salt": "0g",
+                        "calories": "60 kcal"
+                    },
+                    "allergens": {
+                        "contains": [
+                            "nuts"
+                        ],
+                        "may_contain": [
+                            "gluten",
+                            "eggs",
+                            "peanut",
+                            "soy",
+                            "milk"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "fruit": [
+                {
+                    "id": 0,
+                    "name": "Apple Slices",
+                    "image": "",
+                    "description": {
+                        "en": "",
+                        "pt": "Acabaram-se as desculpas para não comer fruta fresca. As fatias de maçã McDonald's são saborosas, nacionais e muito práticas. Já lavadas e sem caroço, são perfeitas tanto como sobremesa, como para morder entre refeições."
+                    },
+                    "categories": [
+                        "happy meal sides and desserts",
+                        "fruit"
+                    ],
+                    "nutrition": {
+                        "proteins": "0g",
+                        "fats": "10g",
+                        "carbs": "0g",
+                        "salt": "0g",
+                        "calories": "45 kcal"
+                    },
+                    "allergens": {
+                        "contains": [],
+                        "may_contain": []
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "Pineapple",
+                    "image": "",
+                    "description": {
+                        "en": "",
+                        "pt": "Comer abacaxi agora torna-se muito mais prático e divertido!"
+                    },
+                    "categories": [
+                        "happy meal sides and desserts",
+                        "fruit"
+                    ],
+                    "nutrition": {
+                        "proteins": "0g",
+                        "fats": "6g",
+                        "carbs": "0g",
+                        "salt": "0g",
+                        "calories": "33 kcal"
+                    },
+                    "allergens": {
+                        "contains": [],
+                        "may_contain": []
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "Fruit Pulp",
+                    "image": "",
+                    "description": {
+                        "en": "",
+                        "pt": ""
+                    },
+                    "categories": [
+                        "happy meal sides and desserts",
+                        "fruit"
+                    ],
+                    "nutrition": {
+                        "proteins": "0g",
+                        "fats": "10g",
+                        "carbs": "2g",
+                        "salt": "0g",
+                        "calories": "48 kcal"
+                    },
+                    "allergens": {
+                        "contains": [
+                            "milk",
+                            "nuts"
+                        ],
+                        "may_contain": [
+                            "peanut"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "others": [
+                {
+                    "id": 0,
+                    "name": {
+                        "en": "Baked Apple Pie",
+                        "pt": "Tarte de Maça"
+                    },
+                    "image": "",
+                    "description": {
+                        "en": "",
+                        "pt": "Crocante e quente com verdadeiros e suculentos pedaços de maçã."
+                    },
+                    "categories": [
+                        "desserts",
+                        "mini mcflurry",
+                        "ice cream"
+                    ],
+                    "nutrition": {
+                        "proteins": "3g",
+                        "fats": "23g",
+                        "carbs": "5g",
+                        "salt": "0.1g",
+                        "calories": "154 kcal"
+                    },
+                    "allergens": {
+                        "contains": [
+                            "gluten",
+                            "soy",
+                            "milk",
+                            "nuts"
+                        ],
+                        "may_contain": [
+                            "peanut"
+                        ]
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "Mini McFlurry Snickers",
+                    "image": "",
+                    "description": {
+                        "pt": ""
+                    },
+                    "categories": [
+                        "desserts",
+                        "mini mcflurry",
+                        "ice cream"
+                    ],
+                    "nutrition": {
+                        "proteins": "5g",
+                        "fats": "32g",
+                        "carbs": "9g",
+                        "salt": "0.1g",
+                        "calories": "229 kcal"
+                    },
+                    "allergens": {
+                        "contains": [
+                            "gluten",
+                            "soy",
+                            "milk",
+                            "peanuts"
+                        ],
+                        "may_contain": [
+                            "eggs",
+                            "nuts"
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "Mini McFlurry M&M's",
+                    "image": "",
+                    "description": {
+                        "pt": "Um sabor à altura com M&M's!"
+                    },
+                    "categories": [
+                        "desserts",
+                        "mini mcflurry",
+                        "ice cream"
+                    ],
+                    "nutrition": {
+                        "proteins": "4g",
+                        "fats": "25g",
+                        "carbs": "6g",
+                        "salt": "0.1g",
+                        "calories": "171 kcal"
+                    },
+                    "allergens": {
+                        "contains": [
+                            "peanut",
+                            "soy",
+                            "milk"
+                        ],
+                        "may_contain": [
+                            "nuts"
+                        ]
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Mini McFlurry Oreo",
+                    "image": "",
+                    "description": {
+                        "pt": "Um sabor à altura com Oreo!"
+                    },
+                    "categories": [
+                        "desserts",
+                        "mini mcflurry",
+                        "ice cream"
+                    ],
+                    "nutrition": {
+                        "proteins": "3g",
+                        "fats": "21g",
+                        "carbs": "4g",
+                        "salt": "0.2g",
+                        "calories": "134 kcal"
+                    },
+                    "allergens": {
+                        "contains": [
+                            "gluten",
+                            "milk"
+                        ],
+                        "may_contain": [
+                            "peanut",
+                            "soy",
+                            "nuts"
+                        ]
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "Mini McFlurry Cornetto Crush com topping chocolate",
+                    "image": "",
+                    "description": {
+                        "pt": ""
+                    },
+                    "categories": [
+                        "desserts",
+                        "mini mcflurry",
+                        "ice cream"
+                    ],
+                    "nutrition": {
+                        "proteins": "5g",
+                        "fats": "43g",
+                        "carbs": "10g",
+                        "salt": "0.4g",
+                        "calories": "280 kcal"
+                    },
+                    "allergens": {
+                        "contains": [
+                            "gluten",
+                            "soy",
+                            "milk"
+                        ],
+                        "may_contain": [
+                            "peanut",
+                            "nuts",
+                            "eggs"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
